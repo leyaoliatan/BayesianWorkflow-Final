@@ -1,0 +1,6 @@
+# Add your own real-world data paths below.
+# Format: category:/absolute/or/relative/path/to/your_data.csv
+# Example:
+# retail:/path/to/your/retail_data.csv
+#
+# Keep one dataset per line.

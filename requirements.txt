@@ -1,0 +1,23 @@
+# Core runtime dependencies
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+torch>=2.0
+
+# Notebook environment
+notebook>=7.0
+ipykernel>=6.0
+ipywidgets>=8.1
+jupyterlab_widgets>=3.0
+
+# Optional forecasting backends (only if you use them)
+# statsmodels>=0.14
+# scipy>=1.10
+# pmdarima>=2.0
+# prophet>=1.1
+
+# MCMC backends for GP method comparison notebook
+jax>=0.4
+jaxlib>=0.4
+numpyro>=0.14
