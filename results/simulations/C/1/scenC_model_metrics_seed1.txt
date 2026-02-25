@@ -1,0 +1,85 @@
+         model effect_type                        metric         value            task
+         FE+AR       alpha                          Bias  7.979728e-17             fit
+         FE+AR       alpha                          RMSE  3.911582e-02             fit
+         FE+AR       alpha                      Coverage  9.500000e-01             fit
+         FE+AR       alpha                      CI_Width  1.514453e-01             fit
+         FE+AR        beta                          Bias -2.012279e-17             fit
+         FE+AR        beta                          RMSE  5.745078e-02             fit
+         FE+AR        beta                      Coverage  9.833333e-01             fit
+         FE+AR        beta                      CI_Width  2.668732e-01             fit
+         GP-CP       alpha                          Bias  8.673617e-17             fit
+         GP-CP       alpha                          RMSE  2.279045e-02             fit
+         GP-CP       alpha                      Coverage  9.500000e-01             fit
+         GP-CP       alpha                      CI_Width  8.975989e-02             fit
+         GP-CP        beta                          Bias  1.110223e-17             fit
+         GP-CP        beta                          RMSE  3.564894e-02             fit
+         GP-CP        beta                      Coverage  9.666667e-01             fit
+         GP-CP        beta                      CI_Width  1.425683e-01             fit
+GP-CP-Extended       alpha                          Bias  2.289835e-17             fit
+GP-CP-Extended       alpha                          RMSE  2.331215e-02             fit
+GP-CP-Extended       alpha                      Coverage  8.500000e-01             fit
+GP-CP-Extended       alpha                      CI_Width  7.367644e-02             fit
+GP-CP-Extended        beta                          Bias -3.284410e-17             fit
+GP-CP-Extended        beta                          RMSE  3.605947e-02             fit
+GP-CP-Extended        beta                      Coverage  9.166667e-01             fit
+GP-CP-Extended        beta                      CI_Width  1.182549e-01             fit
+         FE+AR       gamma                          Bias           NaN             fit
+         FE+AR       gamma                          RMSE           NaN             fit
+         FE+AR       gamma                      Coverage           NaN             fit
+         GP-CP       gamma                          Bias           NaN             fit
+         GP-CP       gamma                          RMSE           NaN             fit
+         GP-CP       gamma                      Coverage           NaN             fit
+         FE+AR        beta                           MAE  3.921473e-01   extrapolation
+         FE+AR        beta                          MAPE  3.190430e+02   extrapolation
+         FE+AR        beta                          RMSE  4.225275e-01   extrapolation
+         FE+AR        beta                      Coverage  8.000000e-01   extrapolation
+         FE+AR        beta                      CI_Width  1.064923e+00   extrapolation
+         GP-CP        beta                           MAE  3.747307e-01   extrapolation
+         GP-CP        beta                          MAPE  1.586883e+02   extrapolation
+         GP-CP        beta                          RMSE  4.057092e-01   extrapolation
+         GP-CP        beta                      Coverage  4.666667e-01   extrapolation
+         GP-CP        beta                      CI_Width  9.204376e-01   extrapolation
+GP-CP-Extended        beta                           MAE  3.726192e-01   extrapolation
+GP-CP-Extended        beta                          MAPE  1.617525e+02   extrapolation
+GP-CP-Extended        beta                          RMSE  4.032938e-01   extrapolation
+GP-CP-Extended        beta                      Coverage  4.666667e-01   extrapolation
+GP-CP-Extended        beta                      CI_Width  8.855324e-01   extrapolation
+         FE+AR           y                          Bias  6.744343e-02 extrapolation_y
+         FE+AR           y                           MAE  4.314665e-01 extrapolation_y
+         FE+AR           y                          RMSE  5.116083e-01 extrapolation_y
+         GP-CP           y                          Bias -1.414414e-02 extrapolation_y
+         GP-CP           y                           MAE  4.188615e-01 extrapolation_y
+         GP-CP           y                          RMSE  5.010516e-01 extrapolation_y
+GP-CP-Extended           y                          Bias -1.360555e-02 extrapolation_y
+GP-CP-Extended           y                           MAE  4.182406e-01 extrapolation_y
+GP-CP-Extended           y                          RMSE  5.007499e-01 extrapolation_y
+         FE+AR     tau_att      tau_mae_avg_over_cohorts  1.100728e-01      placebo_te
+         GP-CP     tau_att      tau_mae_avg_over_cohorts  1.002281e-01      placebo_te
+GP-CP-Extended     tau_att      tau_mae_avg_over_cohorts  1.276701e-01      placebo_te
+         FE+AR     tau_att     tau_rmse_avg_over_cohorts  1.133775e-01      placebo_te
+         GP-CP     tau_att     tau_rmse_avg_over_cohorts  1.027415e-01      placebo_te
+GP-CP-Extended     tau_att     tau_rmse_avg_over_cohorts  1.403590e-01      placebo_te
+         FE+AR     tau_att tau_coverage_avg_over_cohorts  9.966667e-01      placebo_te
+         GP-CP     tau_att tau_coverage_avg_over_cohorts  8.900000e-01      placebo_te
+GP-CP-Extended     tau_att tau_coverage_avg_over_cohorts  9.966667e-01      placebo_te
+         FE+AR     tau_att tau_ci_width_avg_over_cohorts  6.133482e-01      placebo_te
+         GP-CP     tau_att tau_ci_width_avg_over_cohorts  4.218040e-01      placebo_te
+GP-CP-Extended     tau_att tau_ci_width_avg_over_cohorts  9.741373e-01      placebo_te
+         FE+AR     tau_att tau_ci_width_std_over_cohorts  3.096848e-01      placebo_te
+         GP-CP     tau_att tau_ci_width_std_over_cohorts  3.335040e-01      placebo_te
+GP-CP-Extended     tau_att tau_ci_width_std_over_cohorts  2.596049e-01      placebo_te
+         FE+AR     tau_att                att_avg_over_t -7.071096e-02      placebo_te
+         GP-CP     tau_att                att_avg_over_t  8.673375e-03      placebo_te
+GP-CP-Extended     tau_att                att_avg_over_t  8.276281e-03      placebo_te
+         FE+AR     tau_att               att_mae_vs_zero  7.071096e-02      placebo_te
+         GP-CP     tau_att               att_mae_vs_zero  8.673375e-03      placebo_te
+GP-CP-Extended     tau_att               att_mae_vs_zero  8.276281e-03      placebo_te
+         FE+AR     tau_att              att_rmse_vs_zero  7.071096e-02      placebo_te
+         GP-CP     tau_att              att_rmse_vs_zero  8.673375e-03      placebo_te
+GP-CP-Extended     tau_att              att_rmse_vs_zero  8.276281e-03      placebo_te
+         FE+AR     tau_att          att_coverage_vs_zero  1.000000e+00      placebo_te
+         GP-CP     tau_att          att_coverage_vs_zero  1.000000e+00      placebo_te
+GP-CP-Extended     tau_att          att_coverage_vs_zero  1.000000e+00      placebo_te
+         FE+AR     tau_att       att_ci_width_avg_over_t  2.513624e-01      placebo_te
+         GP-CP     tau_att       att_ci_width_avg_over_t  2.111585e-01      placebo_te
+GP-CP-Extended     tau_att       att_ci_width_avg_over_t  3.108129e-01      placebo_te

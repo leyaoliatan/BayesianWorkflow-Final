@@ -1,0 +1,46 @@
+         model effect_type   metric         value          task
+         FE+AR       alpha     Bias -1.526557e-16           fit
+         FE+AR       alpha     RMSE  3.981486e-02           fit
+         FE+AR       alpha Coverage  9.000000e-01           fit
+         FE+AR       alpha CI_Width  1.459390e-01           fit
+         FE+AR        beta     Bias -7.817820e-17           fit
+         FE+AR        beta     RMSE  6.872729e-02           fit
+         FE+AR        beta Coverage  9.333333e-01           fit
+         FE+AR        beta CI_Width  2.571701e-01           fit
+         GP-CP       alpha     Bias -1.998401e-16           fit
+         GP-CP       alpha     RMSE  3.366073e-02           fit
+         GP-CP       alpha Coverage  9.500000e-01           fit
+         GP-CP       alpha CI_Width  1.235829e-01           fit
+         GP-CP        beta     Bias -3.238150e-17           fit
+         GP-CP        beta     RMSE  5.551079e-02           fit
+         GP-CP        beta Coverage  9.333333e-01           fit
+         GP-CP        beta CI_Width  2.037939e-01           fit
+GP-CP-Extended       alpha     Bias -1.249001e-16           fit
+GP-CP-Extended       alpha     RMSE  3.357049e-02           fit
+GP-CP-Extended       alpha Coverage  9.500000e-01           fit
+GP-CP-Extended       alpha CI_Width  1.085242e-01           fit
+GP-CP-Extended        beta     Bias -1.098658e-16           fit
+GP-CP-Extended        beta     RMSE  5.675110e-02           fit
+GP-CP-Extended        beta Coverage  8.833333e-01           fit
+GP-CP-Extended        beta CI_Width  1.785843e-01           fit
+         FE+AR       gamma     Bias           NaN           fit
+         FE+AR       gamma     RMSE           NaN           fit
+         FE+AR       gamma Coverage           NaN           fit
+         GP-CP       gamma     Bias           NaN           fit
+         GP-CP       gamma     RMSE           NaN           fit
+         GP-CP       gamma Coverage           NaN           fit
+         FE+AR        beta      MAE  9.150666e-01 extrapolation
+         FE+AR        beta     MAPE  2.146930e+02 extrapolation
+         FE+AR        beta     RMSE  1.095668e+00 extrapolation
+         FE+AR        beta Coverage  8.000000e-01 extrapolation
+         FE+AR        beta CI_Width  2.914953e+00 extrapolation
+         GP-CP        beta      MAE  4.411027e-01 extrapolation
+         GP-CP        beta     MAPE  1.666223e+02 extrapolation
+         GP-CP        beta     RMSE  4.871551e-01 extrapolation
+         GP-CP        beta Coverage  1.000000e+00 extrapolation
+         GP-CP        beta CI_Width  2.454285e+00 extrapolation
+GP-CP-Extended        beta      MAE  4.329519e-01 extrapolation
+GP-CP-Extended        beta     MAPE  1.677437e+02 extrapolation
+GP-CP-Extended        beta     RMSE  4.809155e-01 extrapolation
+GP-CP-Extended        beta Coverage  1.000000e+00 extrapolation
+GP-CP-Extended        beta CI_Width  2.401772e+00 extrapolation

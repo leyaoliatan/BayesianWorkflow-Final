@@ -1,0 +1,11 @@
+scenario                           A         B
+model          effect_type                    
+FE+AR          alpha        0.930000  1.000000
+               beta         0.966667  1.000000
+               gamma             NaN  0.000000
+GP-CP          alpha        0.940000  1.000000
+               beta         0.966667  1.000000
+               gamma             NaN  0.000000
+GP-CP-Extended alpha        0.930000  0.960000
+               beta         0.950000  0.940000
+               gamma             NaN  0.948333

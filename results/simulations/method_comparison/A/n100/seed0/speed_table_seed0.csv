@@ -1,0 +1,4 @@
+Scenario,N,Seed,Method,time_s,relative_to_type2map
+A,100,0,1) Type-II MAP + Laplace,0.16999341698829085,1.0
+A,100,0,2) NUTS Hyperparams,6.722372374963015,39.54489823230068
+A,100,0,3) Full NUTS (Sample f + theta),177.72550245805178,1045.4846170325143

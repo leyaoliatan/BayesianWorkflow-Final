@@ -1,0 +1,43 @@
+         model effect_type   metric         value
+         FE+AR       alpha     Bias  2.012279e-17
+         FE+AR       alpha     RMSE  3.911582e-02
+         FE+AR       alpha Coverage  1.000000e+00
+         FE+AR       alpha CI_Width  9.717689e-01
+         FE+AR        beta     Bias -6.707597e-18
+         FE+AR        beta     RMSE  5.745078e-02
+         FE+AR        beta Coverage  1.000000e+00
+         FE+AR        beta CI_Width  1.712428e+00
+         FE+AR       gamma     Bias -2.960595e-18
+         FE+AR       gamma     RMSE  1.876500e+00
+         FE+AR       gamma Coverage  0.000000e+00
+         FE+AR       gamma CI_Width           NaN
+         GP-CP       alpha     Bias  6.522560e-17
+         GP-CP       alpha     RMSE  6.959647e-02
+         GP-CP       alpha Coverage  1.000000e+00
+         GP-CP       alpha CI_Width  4.858228e-01
+         GP-CP        beta     Bias -9.251859e-19
+         GP-CP        beta     RMSE  1.293427e-01
+         GP-CP        beta Coverage  1.000000e+00
+         GP-CP        beta CI_Width  6.503916e-01
+         GP-CP       gamma     Bias -2.960595e-18
+         GP-CP       gamma     RMSE  1.876500e+00
+         GP-CP       gamma Coverage  0.000000e+00
+         GP-CP       gamma CI_Width           NaN
+GP-CP-Extended       alpha     Bias  1.040834e-17
+GP-CP-Extended       alpha     RMSE  2.282260e-02
+GP-CP-Extended       alpha Coverage  9.500000e-01
+GP-CP-Extended       alpha CI_Width  8.984409e-02
+GP-CP-Extended        beta     Bias -1.850372e-18
+GP-CP-Extended        beta     RMSE  3.563737e-02
+GP-CP-Extended        beta Coverage  9.666667e-01
+GP-CP-Extended        beta CI_Width  1.433505e-01
+GP-CP-Extended       gamma     Bias -1.214885e-17
+GP-CP-Extended       gamma     RMSE  1.918965e-02
+GP-CP-Extended       gamma Coverage  1.000000e+00
+GP-CP-Extended       gamma CI_Width  8.768151e-02
+         FE+AR       gamma     Bias           NaN
+         FE+AR       gamma     RMSE           NaN
+         FE+AR       gamma Coverage           NaN
+         GP-CP       gamma     Bias           NaN
+         GP-CP       gamma     RMSE           NaN
+         GP-CP       gamma Coverage           NaN

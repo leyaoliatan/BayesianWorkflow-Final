@@ -1,0 +1,44 @@
+Scenario: D
+Seed: 2
+Grid: C=20, T=60, R=1
+Interaction in DGP: True
+Number of observations (N): 1200
+
+True DGP parameters:
+  ell_c: nan
+  sf_c: 1.0
+  ell_t: nan
+  sf_t: 0.5
+  freq_t: 3.5
+  freq_t_eff: 3.489950557557174
+  phase_c: 2.7394367631438397
+  phase_t: 0.16289931889153858
+  h2_c: 0.3099324955757419
+  h2_t: 0.2870644785236554
+  sf_g: 4.0
+  slope_g: 3.0
+  slope_jitter: 0.9491004463011622
+  ell_gc: nan
+  sf_gc: nan
+  ell_gt: nan
+  sf_gt: nan
+  sn: 0.3
+  base_dgp: simple_sinusoid
+
+sum(alpha_true)=1.249001e-16
+sum(beta_true)=-5.898060e-16
+max|row-sum(gamma_true)|=2.664535e-15
+max|col-sum(gamma_true)|=7.549517e-15
+
+Sample observations (head):
+ obs_c  obs_t        y
+     0      0 5.736225
+     0      1 5.767862
+     0      2 6.155451
+     0      3 5.390929
+     0      4 4.847715
+     0      5 5.258637
+     0      6 4.902255
+     0      7 4.511560
+     0      8 3.721703
+     0      9 3.985607

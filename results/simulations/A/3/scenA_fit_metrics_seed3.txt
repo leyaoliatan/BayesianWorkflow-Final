@@ -1,0 +1,31 @@
+         model effect_type   metric         value
+         FE+AR       alpha     Bias -1.235123e-16
+         FE+AR       alpha     RMSE  4.226442e-02
+         FE+AR       alpha Coverage  8.500000e-01
+         FE+AR       alpha CI_Width  1.486957e-01
+         FE+AR        beta     Bias  3.053113e-17
+         FE+AR        beta     RMSE  6.493616e-02
+         FE+AR        beta Coverage  9.500000e-01
+         FE+AR        beta CI_Width  2.620279e-01
+         GP-CP       alpha     Bias -9.853229e-17
+         GP-CP       alpha     RMSE  3.414683e-02
+         GP-CP       alpha Coverage  9.000000e-01
+         GP-CP       alpha CI_Width  1.178674e-01
+         GP-CP        beta     Bias  2.636780e-17
+         GP-CP        beta     RMSE  4.681229e-02
+         GP-CP        beta Coverage  1.000000e+00
+         GP-CP        beta CI_Width  2.050771e-01
+GP-CP-Extended       alpha     Bias  2.775558e-18
+GP-CP-Extended       alpha     RMSE  3.404240e-02
+GP-CP-Extended       alpha Coverage  8.500000e-01
+GP-CP-Extended       alpha CI_Width  1.151559e-01
+GP-CP-Extended        beta     Bias  1.572816e-17
+GP-CP-Extended        beta     RMSE  4.685365e-02
+GP-CP-Extended        beta Coverage  9.833333e-01
+GP-CP-Extended        beta CI_Width  1.994020e-01
+         FE+AR       gamma     Bias           NaN
+         FE+AR       gamma     RMSE           NaN
+         FE+AR       gamma Coverage           NaN
+         GP-CP       gamma     Bias           NaN
+         GP-CP       gamma     RMSE           NaN
+         GP-CP       gamma Coverage           NaN

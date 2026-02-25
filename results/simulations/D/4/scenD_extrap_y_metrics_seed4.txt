@@ -1,0 +1,10 @@
+         model metric    value
+         FE+AR   Bias 0.221496
+         FE+AR    MAE 2.965596
+         FE+AR   RMSE 3.463109
+         GP-CP   Bias 0.016040
+         GP-CP    MAE 2.956623
+         GP-CP   RMSE 3.451028
+GP-CP-Extended   Bias 0.004997
+GP-CP-Extended    MAE 0.391089
+GP-CP-Extended   RMSE 0.490696

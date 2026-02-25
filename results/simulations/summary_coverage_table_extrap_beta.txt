@@ -1,0 +1,5 @@
+scenario                           A         B
+model          effect_type                    
+FE+AR          beta         0.880000  0.893333
+GP-CP          beta         0.973333  0.960000
+GP-CP-Extended beta         0.973333  0.946667

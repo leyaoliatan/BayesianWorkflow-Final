@@ -1,0 +1,16 @@
+         model   metric       value
+         FE+AR      MAE    0.446127
+         FE+AR     MAPE 1264.193440
+         FE+AR     RMSE    0.478266
+         FE+AR Coverage    0.733333
+         FE+AR CI_Width    1.351443
+         GP-CP      MAE    0.393114
+         GP-CP     MAPE  386.244447
+         GP-CP     RMSE    0.429616
+         GP-CP Coverage    0.933333
+         GP-CP CI_Width    1.154109
+GP-CP-Extended      MAE    0.330270
+GP-CP-Extended     MAPE  295.228926
+GP-CP-Extended     RMSE    0.360425
+GP-CP-Extended Coverage    1.000000
+GP-CP-Extended CI_Width    1.078132
